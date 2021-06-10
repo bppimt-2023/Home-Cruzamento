@@ -2,6 +2,11 @@
   font-family: 'myfont';
   src: url('AvengeroRegular-zvgl.ttf');
 }
+@font-face{
+  font-family: 'myfont2';
+  src: url('HeroesAssemble3DRegular-gz3p.otf');
+}
+
 *{
     padding: 0;
     margin: 0;
@@ -212,7 +217,7 @@
 
   .main{
  
-    font-family: 'Avengero', sans-serif;
+   
         font-size: 4.5em;
         letter-spacing: -1px;
      
@@ -352,7 +357,7 @@ h4{
     font-weight: 400px;
     font-size: 30px;
     margin-top: 5px;
-    font-family: 'Heroes Assemble', sans-serif;
+    font-family: 'myfont2';
 }
 h3{
     color: Black;
