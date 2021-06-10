@@ -1,8 +1,6 @@
 @font-face{
-  font-family: 'Avengero', sans-serif;
+  font-family: 'myfont';
   src: url('AvengeroRegular-zvgl.ttf');
-  font-family: 'Heroes Assemble', sans-serif;
-  src: url('HeroesAssemble3DRegular-gz3p.otf');
 }
 *{
     padding: 0;
@@ -15,7 +13,7 @@
   @import url('http://fonts.cdnfonts.com/css/avengero');
   @import url('http://fonts.cdnfonts.com/css/heroes-assemble');
   body{
-    font-family: 'Avengero', sans-serif;
+    font-family: 'myfont';
     background-color: black;
   }
   nav{
