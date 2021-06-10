@@ -1,3 +1,9 @@
+@font-face{
+  font-family: 'Avengero', sans-serif;
+  src: url('AvengeroRegular-zvgl.ttf');
+  font-family: 'Heroes Assemble', sans-serif;
+  src: url('HeroesAssemble3DRegular-gz3p.otf');
+}
 *{
     padding: 0;
     margin: 0;
